@@ -1,0 +1,1 @@
+1. lsof command stands for LiSt Open Files
